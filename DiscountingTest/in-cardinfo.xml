@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<Root>
+	<IN/>
+	<Request>
+		<Command>2</Command>
+		<IssuerID>1</IssuerID>
+		<ShopID>809</ShopID>
+	</Request>
+	<CartInfo>
+		<Flags>2</Flags>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
+		<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+	</CartInfo>
+	<CardInfoMessageList/>
+	<SaleInfoList/>
+	<Parameters>
+		<BonusProgram>-1</BonusProgram>
+		<AjustAmount>-1</AjustAmount>
+		<AjustAmountOnline>-1</AjustAmountOnline>
+		<UserTimeout>-1</UserTimeout>
+		<ReadCard>-1</ReadCard>
+		<Version>2</Version>
+		<Gift>-1</Gift>
+		<PrintData>-1</PrintData>
+		<PrintCommentData>-1</PrintCommentData>
+		<CouponData>-1</CouponData>
+		<CurrencyType>руб.</CurrencyType>
+	</Parameters>
+	<CardInfoList>
+		<CardInfo>
+			<BonusMode>1</BonusMode>
+			<CardApplicationSchemeType>1</CardApplicationSchemeType>
+			<IssuerNet>1</IssuerNet>
+			<IssuerCode>1</IssuerCode>
+			<OrganizationCode>2600</OrganizationCode>
+			<PersonCode>1</PersonCode>
+			<CardType>2</CardType>
+			<ElectronicNumber>3045807259</ElectronicNumber>
+			<GraphicalNumber>3000000100050541</GraphicalNumber>
+		</CardInfo>
+	</CardInfoList>
+	<CardInfoModifierList/>
+	<CouponInfoList/>
+</Root>
