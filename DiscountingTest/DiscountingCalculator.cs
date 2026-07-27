@@ -44,7 +44,7 @@ public class DiscountingCalculator : IDisposable
                 nOutputXmlBufferSize, 
                 ref pnReturnBytes);
             
-            var resultString = Encoding.UTF8.GetString(pOutputXmlBuffer, 0, (int)pnReturnBytes);
+            var resultString = Encoding.GetEncoding(1251).GetString(pOutputXmlBuffer, 0, (int)pnReturnBytes);
 
             return resultString;
         }

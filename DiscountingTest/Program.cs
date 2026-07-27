@@ -1,14 +1,19 @@
-﻿using DiscountingTest;
+using System.Text;
+using DiscountingTest;
 
 class MyClass
 {
     public static async Task Main()
     {
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+        Console.OutputEncoding = Encoding.GetEncoding("windows-1251");
+        Console.InputEncoding = Encoding.GetEncoding("windows-1251");
         using var discountingCalculator = new DiscountingCalculator();
 
-        var inputXml = await File.ReadAllTextAsync("in.xml");
+        var inputXml = await File.ReadAllTextAsync("drin.xml");
         var limitationXml = await File.ReadAllTextAsync("limit.xml");
         var inputSchema = await File.ReadAllTextAsync("dsc.xml");
+        var param = await File.ReadAllTextAsync("param.xml");
         var result = new byte[10 * 1024 * 1024];
 
         uint returnBytes = 0;
@@ -17,7 +22,7 @@ class MyClass
             inputXml, 
             limitationXml, 
             inputSchema, 
-            "", 
+            param, 
             result, 
             result.Length, 
             ref returnBytes);
