@@ -28,12 +28,12 @@
         <MaxBonusOutCost>0.00</MaxBonusOutCost>
         <MinBonusOut>0.000</MinBonusOut>
         <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>4102</Flags>
+        <Flags>6</Flags>
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
         <DateTime>0000-00-00 00:00:00</DateTime>
-        <Guid></Guid>
+        <Guid>00000000-0000-0000-0000-000000000000</Guid>
         <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         <ClientPhone></ClientPhone>
         <ClientEmail></ClientEmail>
@@ -76,7 +76,7 @@
             <VolumeDigits>3</VolumeDigits>
             <InitialCardInfoIndex>3</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
+            <CalculatedCardInfoIndex>1</CalculatedCardInfoIndex>
             <CalculatedModifierCardInfoIndex>-1</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <MessageCode>0</MessageCode>
@@ -85,8 +85,9 @@
             <SalePrice>11</SalePrice>
             <CalculatedSalePrice>11</CalculatedSalePrice>
             <ActionKey>0</ActionKey>
+            <BonusLifeTime>0</BonusLifeTime>
             <DateTime>2026-07-27 17:43:27</DateTime>
-            <ResourceName>Газ как 95</ResourceName>
+            <ResourceName>??? ??? 95</ResourceName>
             <OperatorName></OperatorName>
             <CouponIndexList></CouponIndexList>
             <CalculatedCouponIndexList></CalculatedCouponIndexList>
@@ -122,7 +123,7 @@
         <AllowCardCategories></AllowCardCategories>
         <CardOperationResult></CardOperationResult>
         <Confirmation></Confirmation>
-        <CurrencyType>СЂСѓР±.</CurrencyType>
+        <CurrencyType>���.</CurrencyType>
         <PINRequestResult></PINRequestResult>
         <PIN></PIN>
         <PriceList></PriceList>

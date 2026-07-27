@@ -161,7 +161,7 @@
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>0</Index>
+            <Index>1</Index>
             <ResourceSet>4</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>
@@ -207,7 +207,7 @@
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>0</Index>
+            <Index>2</Index>
             <ResourceSet>6</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>

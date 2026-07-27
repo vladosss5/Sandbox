@@ -1,7 +1,8 @@
 using System.Text;
-using DiscountingTest;
 
-class MyClass
+namespace DiscountingTest;
+
+internal static class MyClass
 {
     public static async Task Main()
     {
@@ -30,7 +31,3 @@ class MyClass
         Console.WriteLine(resultString);
     }
 }
-    
-    
-    
-    
