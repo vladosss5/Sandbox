@@ -28,12 +28,12 @@
         <MaxBonusOutCost>0.00</MaxBonusOutCost>
         <MinBonusOut>0.000</MinBonusOut>
         <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>6</Flags>
+        <Flags>4102</Flags>
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
         <DateTime>0000-00-00 00:00:00</DateTime>
-        <Guid>00000000-0000-0000-0000-000000000000</Guid>
+        <Guid></Guid>
         <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         <ClientPhone></ClientPhone>
         <ClientEmail></ClientEmail>
@@ -42,9 +42,9 @@
     <CardInfoMessageList />
     <SaleInfoList>
         <SaleInfo>
-            <ResourcePrice>0.11</ResourcePrice>
-            <RequestSum>11.250</RequestSum>
-            <RequestAmount>1.000000</RequestAmount>
+            <ResourcePrice>1.77</ResourcePrice>
+            <RequestSum>177.750</RequestSum>
+            <RequestAmount>5.000000</RequestAmount>
             <CompleteAmount>0.000000</CompleteAmount>
             <InitialAmount>0.000000</InitialAmount>
             <InitialDiscount>0.000000000000000</InitialDiscount>
@@ -53,7 +53,7 @@
             <InitialBonusInCost>0.00</InitialBonusInCost>
             <InitialBonusOut>0.000</InitialBonusOut>
             <InitialBonusOutCost>0.00</InitialBonusOutCost>
-            <CalculatedAmount>1.000000</CalculatedAmount>
+            <CalculatedAmount>5.000000</CalculatedAmount>
             <CalculatedDiscount>0.000000000000000</CalculatedDiscount>
             <CalculatedBonusIn>0.000</CalculatedBonusIn>
             <CalculatedBonusInCost>0.00</CalculatedBonusInCost>
@@ -74,20 +74,19 @@
             <PaymentTypeCode>0</PaymentTypeCode>
             <ModifierPaymentTypeCode>0</ModifierPaymentTypeCode>
             <VolumeDigits>3</VolumeDigits>
-            <InitialCardInfoIndex>3</InitialCardInfoIndex>
+            <InitialCardInfoIndex>255</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>1</CalculatedCardInfoIndex>
+            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
             <CalculatedModifierCardInfoIndex>-1</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <MessageCode>0</MessageCode>
             <OperatorCode>0</OperatorCode>
             <TaxCode>9</TaxCode>
-            <SalePrice>11</SalePrice>
-            <CalculatedSalePrice>11</CalculatedSalePrice>
+            <SalePrice>177</SalePrice>
+            <CalculatedSalePrice>177</CalculatedSalePrice>
             <ActionKey>0</ActionKey>
-            <BonusLifeTime>0</BonusLifeTime>
-            <DateTime>2026-07-27 17:43:27</DateTime>
-            <ResourceName>??? ??? 95</ResourceName>
+            <DateTime>2026-07-30 09:29:31</DateTime>
+            <ResourceName>Газ как 95</ResourceName>
             <OperatorName></OperatorName>
             <CouponIndexList></CouponIndexList>
             <CalculatedCouponIndexList></CalculatedCouponIndexList>
@@ -123,7 +122,7 @@
         <AllowCardCategories></AllowCardCategories>
         <CardOperationResult></CardOperationResult>
         <Confirmation></Confirmation>
-        <CurrencyType>���.</CurrencyType>
+        <CurrencyType>СЂСѓР±.</CurrencyType>
         <PINRequestResult></PINRequestResult>
         <PIN></PIN>
         <PriceList></PriceList>

@@ -11,7 +11,7 @@ internal static class MyClass
         Console.InputEncoding = Encoding.GetEncoding("windows-1251");
         using var discountingCalculator = new DiscountingCalculator();
 
-        var inputXml = await File.ReadAllTextAsync("drin.xml");
+        var inputXml = await File.ReadAllTextAsync("in-cardinfo.xml");
         var limitationXml = await File.ReadAllTextAsync("limit.xml");
         var inputSchema = await File.ReadAllTextAsync("dsc.xml");
         var param = await File.ReadAllTextAsync("param.xml");

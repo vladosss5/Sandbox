@@ -36,8 +36,8 @@
     <SaleInfoList>
         <SaleInfo>
             <ResourcePrice>35.55</ResourcePrice>
-            <RequestSum>11.25</RequestSum>
-            <RequestAmount>1.000</RequestAmount>
+            <RequestSum>177.75</RequestSum>
+            <RequestAmount>5</RequestAmount>
             <InitialAmount>0</InitialAmount>
             <InitialCost>0</InitialCost>
             <InitialBonusIn>0</InitialBonusIn>
@@ -52,15 +52,15 @@
             <BasePaymentType>2</BasePaymentType>
             <DerivedPaymentType>1</DerivedPaymentType>
             <VolumeDigits>3</VolumeDigits>
-            <InitialCardInfoIndex>3</InitialCardInfoIndex>
+            <InitialCardInfoIndex>255</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
             <CalculatedCardInfoIndex>255</CalculatedCardInfoIndex>
             <CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <TaxCode>9</TaxCode>
-            <SalePrice>11.25</SalePrice>
+            <SalePrice>177.75</SalePrice>
             <CalculatedSalePrice>0</CalculatedSalePrice>
-            <DateTime>2026-07-27 17:43:27</DateTime>
+            <DateTime>2026-07-30 09:29:31</DateTime>
             <ResourceName>√аз как 95</ResourceName>
             <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         </SaleInfo>
@@ -124,7 +124,7 @@
             <StatusType>4</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
-            <TransactionCount>0</TransactionCount>
+            <TransactionCount>21</TransactionCount>
             <PartCode>0</PartCode>
             <ApplicationID>87713</ApplicationID>
             <CommonApplicationID>87713</CommonApplicationID>
@@ -161,7 +161,7 @@
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>1</Index>
+            <Index>0</Index>
             <ResourceSet>4</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>
@@ -207,7 +207,7 @@
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>2</Index>
+            <Index>0</Index>
             <ResourceSet>6</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>
