@@ -28,13 +28,13 @@
         <MaxBonusOutCost>0.00</MaxBonusOutCost>
         <MinBonusOut>0.000</MinBonusOut>
         <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>4102</Flags>
+        <Flags>2</Flags>
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
         <DateTime>0000-00-00 00:00:00</DateTime>
-        <Guid>F108C8B2-E152-4324-87C5-411B11327834</Guid>
-        <TransactionGUID>F108C8B2-E152-4324-87C5-411B11327834</TransactionGUID>
+        <Guid></Guid>
+        <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         <ClientPhone></ClientPhone>
         <ClientEmail></ClientEmail>
         <TerminalRequestID>0</TerminalRequestID>
@@ -42,9 +42,9 @@
     <CardInfoMessageList />
     <SaleInfoList>
         <SaleInfo>
-            <ResourcePrice>1.77</ResourcePrice>
-            <RequestSum>8.850</RequestSum>
-            <RequestAmount>5.000000</RequestAmount>
+            <ResourcePrice>1.20</ResourcePrice>
+            <RequestSum>120.000</RequestSum>
+            <RequestAmount>2.000000</RequestAmount>
             <CompleteAmount>0.000000</CompleteAmount>
             <InitialAmount>0.000000</InitialAmount>
             <InitialDiscount>0.000000000000000</InitialDiscount>
@@ -53,7 +53,7 @@
             <InitialBonusInCost>0.00</InitialBonusInCost>
             <InitialBonusOut>0.000</InitialBonusOut>
             <InitialBonusOutCost>0.00</InitialBonusOutCost>
-            <CalculatedAmount>5.000000</CalculatedAmount>
+            <CalculatedAmount>0.000000</CalculatedAmount>
             <CalculatedDiscount>0.000000000000000</CalculatedDiscount>
             <CalculatedBonusIn>0.000</CalculatedBonusIn>
             <CalculatedBonusInCost>0.00</CalculatedBonusInCost>
@@ -62,35 +62,35 @@
             <AmountSale>0.000</AmountSale>
             <TaxRate>0.000</TaxRate>
             <Density>0.545000</Density>
-            <Flags>2</Flags>
+            <Flags>0</Flags>
             <Id>1</Id>
             <RequestId>2</RequestId>
-            <ResourceSet>4</ResourceSet>
-            <ResourceCode>4</ResourceCode>
-            <AquirerResourceCode>4</AquirerResourceCode>
+            <ResourceSet>3</ResourceSet>
+            <ResourceCode>55</ResourceCode>
+            <AquirerResourceCode>55</AquirerResourceCode>
             <ResourceGroupCode>0</ResourceGroupCode>
             <BasePaymentType>2</BasePaymentType>
             <DerivedPaymentType>1</DerivedPaymentType>
             <PaymentTypeCode>0</PaymentTypeCode>
             <ModifierPaymentTypeCode>0</ModifierPaymentTypeCode>
             <VolumeDigits>3</VolumeDigits>
-            <InitialCardInfoIndex>0</InitialCardInfoIndex>
+            <InitialCardInfoIndex>255</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>1</CalculatedCardInfoIndex>
-            <CalculatedModifierCardInfoIndex>-1</CalculatedModifierCardInfoIndex>
+            <CalculatedCardInfoIndex>255</CalculatedCardInfoIndex>
+            <CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <MessageCode>0</MessageCode>
             <OperatorCode>0</OperatorCode>
             <TaxCode>9</TaxCode>
-            <SalePrice>177</SalePrice>
-            <CalculatedSalePrice>177</CalculatedSalePrice>
+            <SalePrice>120</SalePrice>
+            <CalculatedSalePrice>120</CalculatedSalePrice>
             <ActionKey>0</ActionKey>
-            <DateTime>2026-07-30 09:34:41</DateTime>
-            <ResourceName>Р“Р°Р· РєР°Рє 95</ResourceName>
+            <DateTime>2026-08-10 12:47:32</DateTime>
+            <ResourceName>92</ResourceName>
             <OperatorName></OperatorName>
             <CouponIndexList></CouponIndexList>
             <CalculatedCouponIndexList></CalculatedCouponIndexList>
-            <TransactionGUID>E5E56B1D-11A6-4206-90E9-0501116BC949</TransactionGUID>
+            <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
             <CalculateDiscountList></CalculateDiscountList>
             <CalculateBonusList></CalculateBonusList>
             <CalculateAccumulateList></CalculateAccumulateList>
@@ -103,7 +103,7 @@
         <AjustAmount>-1</AjustAmount>
         <AjustAmountOnline>-1</AjustAmountOnline>
         <UserTimeout>-1</UserTimeout>
-        <ReadCard>-1</ReadCard>
+        <ReadCard>4</ReadCard>
         <Version>2</Version>
         <Gift>-1</Gift>
         <PrintData>-1</PrintData>
@@ -122,9 +122,9 @@
         <AllowCardCategories></AllowCardCategories>
         <CardOperationResult></CardOperationResult>
         <Confirmation></Confirmation>
-        <CurrencyType>РЎР‚РЎС“Р В±.</CurrencyType>
+        <CurrencyType>���.</CurrencyType>
         <PINRequestResult></PINRequestResult>
-        <PIN>2815</PIN>
+        <PIN></PIN>
         <PriceList></PriceList>
         <Registration></Registration>
         <CouponList></CouponList>
@@ -137,7 +137,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
@@ -155,7 +155,7 @@
             <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
-            <TransactionCount>21</TransactionCount>
+            <TransactionCount>29</TransactionCount>
             <PartCode>0</PartCode>
             <ApplicationID>87713</ApplicationID>
             <CommonApplicationID>87713</CommonApplicationID>
@@ -184,7 +184,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>40000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
@@ -202,7 +202,7 @@
             <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
-            <TransactionCount>1</TransactionCount>
+            <TransactionCount>0</TransactionCount>
             <PartCode>0</PartCode>
             <ApplicationID>87714</ApplicationID>
             <CommonApplicationID>87713</CommonApplicationID>
@@ -231,7 +231,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>

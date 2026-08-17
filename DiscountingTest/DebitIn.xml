@@ -22,7 +22,7 @@
         <MaxBonusOutCost>0.00</MaxBonusOutCost>
         <MinBonusOut>0.000</MinBonusOut>
         <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>4102</Flags>
+        <Flags>32770</Flags>
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
@@ -35,33 +35,33 @@
     </CartInfo>
     <SaleInfoList>
         <SaleInfo>
-            <ResourcePrice>1.77</ResourcePrice>
-            <RequestSum>177.750</RequestSum>
-            <RequestAmount>5.000000</RequestAmount>
+            <ResourcePrice>1.20</ResourcePrice>
+            <RequestSum>120.000</RequestSum>
+            <RequestAmount>2.000000</RequestAmount>
             <InitialAmount>0.000000</InitialAmount>
             <InitialCost>0.00</InitialCost>
             <InitialBonusIn>0.000</InitialBonusIn>
             <TaxRate>0.000</TaxRate>
             <Density>0.545</Density>
-            <Flags>2</Flags>
+            <Flags>0</Flags>
             <Id>1</Id>
             <RequestId>2</RequestId>
-            <ResourceSet>4</ResourceSet>
-            <ResourceCode>4</ResourceCode>
-            <AquirerResourceCode>4</AquirerResourceCode>
+            <ResourceSet>3</ResourceSet>
+            <ResourceCode>55</ResourceCode>
+            <AquirerResourceCode>55</AquirerResourceCode>
             <BasePaymentType>2</BasePaymentType>
             <DerivedPaymentType>1</DerivedPaymentType>
             <VolumeDigits>3</VolumeDigits>
-            <InitialCardInfoIndex>0</InitialCardInfoIndex>
+            <InitialCardInfoIndex>255</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
-            <CalculatedModifierCardInfoIndex>-1</CalculatedModifierCardInfoIndex>
+            <CalculatedCardInfoIndex>255</CalculatedCardInfoIndex>
+            <CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <TaxCode>9</TaxCode>
-            <SalePrice>177</SalePrice>
-            <CalculatedSalePrice>177</CalculatedSalePrice>
-            <DateTime>2026-07-30 09:29:31</DateTime>
-            <ResourceName>Газ как 95</ResourceName>
+            <SalePrice>120</SalePrice>
+            <CalculatedSalePrice>120</CalculatedSalePrice>
+            <DateTime>2026-08-10 12:47:32</DateTime>
+            <ResourceName>92</ResourceName>
             <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         </SaleInfo>
     </SaleInfoList>
@@ -72,7 +72,7 @@
         <AjustAmount>-1</AjustAmount>
         <AjustAmountOnline>-1</AjustAmountOnline>
         <UserTimeout>-1</UserTimeout>
-        <ReadCard>-1</ReadCard>
+        <ReadCard>4</ReadCard>
         <Version>2</Version>
         <Gift>-1</Gift>
         <PrintData>-1</PrintData>
@@ -91,9 +91,9 @@
         <AllowCardCategories />
         <CardOperationResult />
         <Confirmation />
-        <CurrencyType>СЂСѓР±.</CurrencyType>
+        <CurrencyType>���.</CurrencyType>
         <PINRequestResult />
-        <PIN>2815</PIN>
+        <PIN />
         <PriceList />
         <Registration />
         <CouponList />
@@ -106,7 +106,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
@@ -121,10 +121,10 @@
             <IssuerNet>1</IssuerNet>
             <IssuerCode>1</IssuerCode>
             <DiscountType>0</DiscountType>
-            <StatusType>4</StatusType>
+            <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
-            <TransactionCount>21</TransactionCount>
+            <TransactionCount>29</TransactionCount>
             <PartCode>0</PartCode>
             <ApplicationID>87713</ApplicationID>
             <CommonApplicationID>87713</CommonApplicationID>
@@ -152,7 +152,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
@@ -167,7 +167,7 @@
             <IssuerNet>1</IssuerNet>
             <IssuerCode>1</IssuerCode>
             <DiscountType>0</DiscountType>
-            <StatusType>4</StatusType>
+            <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
             <TransactionCount>0</TransactionCount>
@@ -198,7 +198,7 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>0.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
             <ApplicationLimit>45000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
@@ -213,7 +213,7 @@
             <IssuerNet>1</IssuerNet>
             <IssuerCode>1</IssuerCode>
             <DiscountType>0</DiscountType>
-            <StatusType>4</StatusType>
+            <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
             <TransactionCount>0</TransactionCount>

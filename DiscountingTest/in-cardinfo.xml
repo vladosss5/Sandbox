@@ -38,7 +38,7 @@
 		<AjustAmount>-1</AjustAmount>
 		<AjustAmountOnline>-1</AjustAmountOnline>
 		<UserTimeout>-1</UserTimeout>
-		<ReadCard>-1</ReadCard>
+		<ReadCard>4</ReadCard>
 		<Version>2</Version>
 		<Gift>-1</Gift>
 		<PrintData>-1</PrintData>

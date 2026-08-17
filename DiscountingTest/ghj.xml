@@ -1,81 +1,114 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <Root>
-    <OUT />
-    <Request>
-        <ResultCode>0</ResultCode>
-        <ResultCodeExt>65550</ResultCodeExt>
-        <Command>2</Command>
-        <IssuerID>1</IssuerID>
-        <ShopID>809</ShopID>
-        <ShiftID>0</ShiftID>
+<OUT />
+<Request>
+    <ResultCode>0</ResultCode>
+    <ResultCodeExt>0</ResultCodeExt>
+    <Command>2</Command>
+    <IssuerID>1</IssuerID>
+    <ShopID>1</ShopID>
+    <ShiftID>0</ShiftID>
+    <Flags>0</Flags>
+    <RequestTimeout>0</RequestTimeout>
+    <ShopFlags>0</ShopFlags>
+    <ShopState>0</ShopState>
+</Request>
+<CartInfo>
+    <BonusLimitValue>0.000</BonusLimitValue>
+    <MaxBonusIn>0.000</MaxBonusIn>
+    <MaxBonusInCost>0.00</MaxBonusInCost>
+    <MinBonusIn>0.000</MinBonusIn>
+    <MinBonusInCost>0.00</MinBonusInCost>
+    <MaxBonusOut>0.000</MaxBonusOut>
+    <MaxBonusOutCost>0.00</MaxBonusOutCost>
+    <MinBonusOut>0.000</MinBonusOut>
+    <MinBonusOutCost>0.00</MinBonusOutCost>
+    <Flags>2</Flags>
+    <BonusAction>0</BonusAction>
+    <BonusProgram>0</BonusProgram>
+    <TerminalNumber>0</TerminalNumber>
+    <DateTime>0000-00-00 00:00:00</DateTime>
+    <Guid>00000000-0000-0000-0000-000000000000</Guid>
+    <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+    <ClientPhone></ClientPhone>
+    <ClientEmail></ClientEmail>
+    <TerminalRequestID>0</TerminalRequestID>
+</CartInfo>
+<CardInfoMessageList />
+<SaleInfoList />
+<Parameters>
+    <DisableCardScopeCheck>0</DisableCardScopeCheck>
+    <DisableDiscountCardExpiredCheck>0</DisableDiscountCardExpiredCheck>
+    <BonusProgram>-1</BonusProgram>
+    <AjustAmount>-1</AjustAmount>
+    <AjustAmountOnline>-1</AjustAmountOnline>
+    <UserTimeout>-1</UserTimeout>
+    <ReadCard>4</ReadCard>
+    <Version>2</Version>
+    <Gift>-1</Gift>
+    <PrintData>-1</PrintData>
+    <PrintCommentData>-1</PrintCommentData>
+    <ExtCommand>0</ExtCommand>
+    <CouponData>-1</CouponData>
+    <LimitationObjectType>0</LimitationObjectType>
+    <LimitationObjectKey>0</LimitationObjectKey>
+    <LimitationType>0</LimitationType>
+    <Value>0</Value>
+    <LoggerType>0</LoggerType>
+    <ShoppingCart>0</ShoppingCart>
+    <ExtendedInfo>0</ExtendedInfo>
+    <WarehouseToWorkState>0</WarehouseToWorkState>
+    <CurrencyType>???.</CurrencyType>
+</Parameters>
+<CardInfoList>
+    <CardInfo>
+        <DiscountVolume>0.00</DiscountVolume>
+        <BonusValue>0.000</BonusValue>
+        <BonusDiscount>0.000</BonusDiscount>
+        <BonusCurrent>0.000</BonusCurrent>
+        <RawApplicationValue>0.000</RawApplicationValue>
+        <ApplicationValue>0.000</ApplicationValue>
+        <DayApplicationValue>0.000</DayApplicationValue>
+        <ApplicationLimit>0.000</ApplicationLimit>
+        <DayApplicationLimit>0.000</DayApplicationLimit>
+        <CommonDayApplicationValue>0.000</CommonDayApplicationValue>
         <Flags>0</Flags>
-        <RequestTimeout>0</RequestTimeout>
-        <ShopFlags>0</ShopFlags>
-        <ShopState>0</ShopState>
-        <ResultMessage></ResultMessage>
-        <ResultMessageExt>������ ������� ������ �� ����� [��](1990637772)!&#x0A;�������� ���������</ResultMessageExt>
-        <ServiceList></ServiceList>
-        <RequestTypeList></RequestTypeList>
-        <PumpState></PumpState>
-    </Request>
-    <CartInfo>
-        <BonusLimitValue>0.000</BonusLimitValue>
-        <MaxBonusIn>0.000</MaxBonusIn>
-        <MaxBonusInCost>0.00</MaxBonusInCost>
-        <MinBonusIn>0.000</MinBonusIn>
-        <MinBonusInCost>0.00</MinBonusInCost>
-        <MaxBonusOut>0.000</MaxBonusOut>
-        <MaxBonusOutCost>0.00</MaxBonusOutCost>
-        <MinBonusOut>0.000</MinBonusOut>
-        <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>2</Flags>
-        <BonusAction>0</BonusAction>
-        <BonusProgram>0</BonusProgram>
-        <TerminalNumber>0</TerminalNumber>
-        <DateTime>0000-00-00 00:00:00</DateTime>
-        <Guid>00000000-0000-0000-0000-000000000000</Guid>
-        <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
-        <ClientPhone></ClientPhone>
-        <ClientEmail></ClientEmail>
-        <TerminalRequestID>0</TerminalRequestID>
-    </CartInfo>
-    <CardInfoMessageList />
-    <SaleInfoList />
-    <Parameters>
-        <DisableCardScopeCheck>0</DisableCardScopeCheck>
-        <DisableDiscountCardExpiredCheck>0</DisableDiscountCardExpiredCheck>
-        <BonusProgram>-1</BonusProgram>
-        <AjustAmount>-1</AjustAmount>
-        <AjustAmountOnline>-1</AjustAmountOnline>
-        <UserTimeout>-1</UserTimeout>
-        <ReadCard>-1</ReadCard>
-        <Version>2</Version>
-        <Gift>-1</Gift>
-        <PrintData>-1</PrintData>
-        <PrintCommentData>-1</PrintCommentData>
-        <ExtCommand>0</ExtCommand>
-        <CouponData>-1</CouponData>
-        <LimitationObjectType>0</LimitationObjectType>
-        <LimitationObjectKey>0</LimitationObjectKey>
-        <LimitationType>0</LimitationType>
-        <Value>0</Value>
-        <LoggerType>0</LoggerType>
-        <ShoppingCart>0</ShoppingCart>
-        <ExtendedInfo>0</ExtendedInfo>
-        <WarehouseToWorkState>0</WarehouseToWorkState>
-        <AllowSpecialIssuers></AllowSpecialIssuers>
-        <AllowCardCategories></AllowCardCategories>
-        <CardOperationResult></CardOperationResult>
-        <Confirmation></Confirmation>
-        <CurrencyType>???.</CurrencyType>
-        <PINRequestResult></PINRequestResult>
-        <PIN></PIN>
-        <PriceList></PriceList>
-        <Registration></Registration>
-        <CouponList></CouponList>
-        <CouponBaseList></CouponBaseList>
-    </Parameters>
-    <CardInfoList />
-    <CardInfoModifierList />
-    <CouponInfoList />
+        <ExFlags>0</ExFlags>
+        <RestrictionFlags>0</RestrictionFlags>
+        <BonusMode>1</BonusMode>
+        <Index>0</Index>
+        <ResourceSet>0</ResourceSet>
+        <CardApplicationSchemeType>0</CardApplicationSchemeType>
+        <IssuerNet>1</IssuerNet>
+        <IssuerCode>1</IssuerCode>
+        <DiscountType>0</DiscountType>
+        <StatusType>1</StatusType>
+        <OrganizationCode>9999999</OrganizationCode>
+        <PersonCode>1</PersonCode>
+        <TransactionCount>0</TransactionCount>
+        <PartCode>0</PartCode>
+        <ApplicationID>0</ApplicationID>
+        <CommonApplicationID>0</CommonApplicationID>
+        <CommonApplicationCode>0</CommonApplicationCode>
+        <ResourceCode>0</ResourceCode>
+        <CardCategoryCode>0</CardCategoryCode>
+        <CardApplicationType>0</CardApplicationType>
+        <Scope>0</Scope>
+        <Price>0</Price>
+        <CardResourceSet>0</CardResourceSet>
+        <CardResourceCode>0</CardResourceCode>
+        <LastChangeCode>0</LastChangeCode>
+        <CardType>2</CardType>
+        <CouponType>0</CouponType>
+        <AcquirerCode>0</AcquirerCode>
+        <ExternalIssuerNet>0</ExternalIssuerNet>
+        <ExternalIssuerCode>0</ExternalIssuerCode>
+        <ElectronicNumber>1990637772</ElectronicNumber>
+        <GraphicalNumber>0</GraphicalNumber>
+        <QRCode></QRCode>
+        <ExpirationDate>0000-00-00 00:00:00</ExpirationDate>
+    </CardInfo>
+</CardInfoList>
+<CardInfoModifierList />
+<CouponInfoList />
 </Root>

@@ -3,7 +3,7 @@
     <OUT />
     <Request>
         <ResultCode>0</ResultCode>
-        <ResultCodeExt>0</ResultCodeExt>
+        <ResultCodeExt>65549</ResultCodeExt>
         <Command>0</Command>
         <IssuerID>1</IssuerID>
         <ShopID>1</ShopID>
@@ -13,7 +13,7 @@
         <ShopFlags>0</ShopFlags>
         <ShopState>0</ShopState>
         <ResultMessage></ResultMessage>
-        <ResultMessageExt></ResultMessageExt>
+        <ResultMessageExt>ID=100001&#x0D;&#x0A;Header=Внимание!&#x0D;&#x0A;Type=2&#x0D;&#x0A;ResultName=AjustAmount&#x0D;&#x0A;ResultType=1&#x0D;&#x0A;ResultDefault=0&#x0D;&#x0A;ViewType=2&#x0D;&#x0A;ViewHeader=Недостаточно средств на карте.&#x0A;Переоформить заявку на доступное количество?&#x0D;&#x0A;</ResultMessageExt>
         <ServiceList></ServiceList>
         <RequestTypeList></RequestTypeList>
         <PumpState></PumpState>
@@ -28,7 +28,7 @@
         <MaxBonusOutCost>0.00</MaxBonusOutCost>
         <MinBonusOut>0.000</MinBonusOut>
         <MinBonusOutCost>0.00</MinBonusOutCost>
-        <Flags>4102</Flags>
+        <Flags>32770</Flags>
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
@@ -42,9 +42,9 @@
     <CardInfoMessageList />
     <SaleInfoList>
         <SaleInfo>
-            <ResourcePrice>1.77</ResourcePrice>
-            <RequestSum>177.750</RequestSum>
-            <RequestAmount>5.000000</RequestAmount>
+            <ResourcePrice>0.60</ResourcePrice>
+            <RequestSum>60.000</RequestSum>
+            <RequestAmount>1.000000</RequestAmount>
             <CompleteAmount>0.000000</CompleteAmount>
             <InitialAmount>0.000000</InitialAmount>
             <InitialDiscount>0.000000000000000</InitialDiscount>
@@ -53,7 +53,7 @@
             <InitialBonusInCost>0.00</InitialBonusInCost>
             <InitialBonusOut>0.000</InitialBonusOut>
             <InitialBonusOutCost>0.00</InitialBonusOutCost>
-            <CalculatedAmount>5.000000</CalculatedAmount>
+            <CalculatedAmount>0.000000</CalculatedAmount>
             <CalculatedDiscount>0.000000000000000</CalculatedDiscount>
             <CalculatedBonusIn>0.000</CalculatedBonusIn>
             <CalculatedBonusInCost>0.00</CalculatedBonusInCost>
@@ -62,12 +62,12 @@
             <AmountSale>0.000</AmountSale>
             <TaxRate>0.000</TaxRate>
             <Density>0.545000</Density>
-            <Flags>2</Flags>
+            <Flags>0</Flags>
             <Id>1</Id>
             <RequestId>2</RequestId>
-            <ResourceSet>4</ResourceSet>
-            <ResourceCode>4</ResourceCode>
-            <AquirerResourceCode>4</AquirerResourceCode>
+            <ResourceSet>3</ResourceSet>
+            <ResourceCode>55</ResourceCode>
+            <AquirerResourceCode>55</AquirerResourceCode>
             <ResourceGroupCode>0</ResourceGroupCode>
             <BasePaymentType>2</BasePaymentType>
             <DerivedPaymentType>1</DerivedPaymentType>
@@ -76,17 +76,17 @@
             <VolumeDigits>3</VolumeDigits>
             <InitialCardInfoIndex>255</InitialCardInfoIndex>
             <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
-            <CalculatedModifierCardInfoIndex>-1</CalculatedModifierCardInfoIndex>
+            <CalculatedCardInfoIndex>255</CalculatedCardInfoIndex>
+            <CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
             <MessageCode>0</MessageCode>
             <OperatorCode>0</OperatorCode>
             <TaxCode>9</TaxCode>
-            <SalePrice>177</SalePrice>
-            <CalculatedSalePrice>177</CalculatedSalePrice>
+            <SalePrice>60</SalePrice>
+            <CalculatedSalePrice>60</CalculatedSalePrice>
             <ActionKey>0</ActionKey>
-            <DateTime>2026-07-30 09:29:31</DateTime>
-            <ResourceName>Р“Р°Р· РєР°Рє 95</ResourceName>
+            <DateTime>2026-08-17 14:54:11</DateTime>
+            <ResourceName>92</ResourceName>
             <OperatorName></OperatorName>
             <CouponIndexList></CouponIndexList>
             <CalculatedCouponIndexList></CalculatedCouponIndexList>
@@ -103,7 +103,7 @@
         <AjustAmount>-1</AjustAmount>
         <AjustAmountOnline>-1</AjustAmountOnline>
         <UserTimeout>-1</UserTimeout>
-        <ReadCard>-1</ReadCard>
+        <ReadCard>4</ReadCard>
         <Version>2</Version>
         <Gift>-1</Gift>
         <PrintData>-1</PrintData>
@@ -122,7 +122,7 @@
         <AllowCardCategories></AllowCardCategories>
         <CardOperationResult></CardOperationResult>
         <Confirmation></Confirmation>
-        <CurrencyType>РЎР‚РЎС“Р В±.</CurrencyType>
+        <CurrencyType>руб.</CurrencyType>
         <PINRequestResult></PINRequestResult>
         <PIN></PIN>
         <PriceList></PriceList>

@@ -1,2 +1,2 @@
-﻿var str = "sdjkfhsdk0909";
-Console.WriteLine(str.IndexOf('.'));
+﻿var str = DateTime.MinValue;
+Console.WriteLine(str);
