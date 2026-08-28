@@ -33,7 +33,7 @@
 		<BonusProgram>0</BonusProgram>
 		<TerminalNumber>0</TerminalNumber>
 		<DateTime>0000-00-00 00:00:00</DateTime>
-		<Guid></Guid>
+		<Guid>00000000-0000-0000-0000-000000000000</Guid>
 		<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
 		<ClientPhone></ClientPhone>
 		<ClientEmail></ClientEmail>
@@ -82,9 +82,9 @@
 			<BonusDiscount>0.000</BonusDiscount>
 			<BonusCurrent>0.000</BonusCurrent>
 			<RawApplicationValue>0.000</RawApplicationValue>
-			<ApplicationValue>0.000</ApplicationValue>
+			<ApplicationValue>1000000.000</ApplicationValue>
 			<DayApplicationValue>0.000</DayApplicationValue>
-			<ApplicationLimit>45000.000</ApplicationLimit>
+			<ApplicationLimit>1000000.000</ApplicationLimit>
 			<DayApplicationLimit>0.000</DayApplicationLimit>
 			<CommonDayApplicationValue>0.000</CommonDayApplicationValue>
 			<Flags>16384</Flags>
@@ -100,7 +100,7 @@
 			<StatusType>1</StatusType>
 			<OrganizationCode>2660</OrganizationCode>
 			<PersonCode>3</PersonCode>
-			<TransactionCount>34</TransactionCount>
+			<TransactionCount>47</TransactionCount>
 			<PartCode>0</PartCode>
 			<ApplicationID>87713</ApplicationID>
 			<CommonApplicationID>87713</CommonApplicationID>
@@ -129,9 +129,9 @@
 			<BonusDiscount>0.000</BonusDiscount>
 			<BonusCurrent>0.000</BonusCurrent>
 			<RawApplicationValue>0.000</RawApplicationValue>
-			<ApplicationValue>0.000</ApplicationValue>
+			<ApplicationValue>1000000.000</ApplicationValue>
 			<DayApplicationValue>0.000</DayApplicationValue>
-			<ApplicationLimit>45000.000</ApplicationLimit>
+			<ApplicationLimit>1000000.000</ApplicationLimit>
 			<DayApplicationLimit>0.000</DayApplicationLimit>
 			<CommonDayApplicationValue>0.000</CommonDayApplicationValue>
 			<Flags>16384</Flags>
@@ -176,9 +176,9 @@
 			<BonusDiscount>0.000</BonusDiscount>
 			<BonusCurrent>0.000</BonusCurrent>
 			<RawApplicationValue>0.000</RawApplicationValue>
-			<ApplicationValue>0.000</ApplicationValue>
+			<ApplicationValue>1000000.000</ApplicationValue>
 			<DayApplicationValue>0.000</DayApplicationValue>
-			<ApplicationLimit>45000.000</ApplicationLimit>
+			<ApplicationLimit>1000000.000</ApplicationLimit>
 			<DayApplicationLimit>0.000</DayApplicationLimit>
 			<CommonDayApplicationValue>0.000</CommonDayApplicationValue>
 			<Flags>16384</Flags>

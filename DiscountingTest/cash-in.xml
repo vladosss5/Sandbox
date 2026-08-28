@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <Root>
 	<IN/>
 	<Request>
-		<IssuerID>1</IssuerID>
-		<ShopID>401</ShopID>
+		<Command>0</Command>
+		<IssuerID>777</IssuerID>
+		<ShopID>777</ShopID>
+		<ResultCode>0</ResultCode>
+		<ResultCodeExt>0</ResultCodeExt>
+		<ShiftID>0</ShiftID>
+		<Flags>0</Flags>
+		<ShopFlags>0</ShopFlags>
+		<ShopState>0</ShopState>
+		<RequestTimeout>0</RequestTimeout>
 	</Request>
 	<CartInfo>
-		<Flags>2</Flags>
-		<BonusProgram>-1</BonusProgram>
-		<Guid>00000000-0000-0000-0000-000000000000</Guid>
-		<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
 	</CartInfo>
 	<CardInfoMessageList/>
 	<SaleInfoList>
 		<SaleInfo>
-			<ResourcePrice>63.50</ResourcePrice>
-			<RequestSum>95.250</RequestSum>
-			<RequestAmount>1.500000</RequestAmount>
-			<InitialAmount>1.500000</InitialAmount>
-			<InitialCost>63.50</InitialCost>
-			<TaxRate>22.000</TaxRate>
-			<Density>0.780000</Density>
+			<ResourcePrice>60</ResourcePrice>
+			<RequestSum>200</RequestSum>
+			<RequestAmount>3.333</RequestAmount>
+			
+			<InitialAmount>3.333</InitialAmount>
+			<InitialCost>200</InitialCost>
+			<InitialBonusIn>0</InitialBonusIn>
+			<TaxRate>0</TaxRate>
+			<Density>0.545</Density>
 			<Id>1</Id>
-			<RequestId>1</RequestId>
+			<RequestId>2</RequestId>
 			<ResourceSet>3</ResourceSet>
-			<ResourceCode>50001</ResourceCode>
-			<AquirerResourceCode>33</AquirerResourceCode>
+			<ResourceCode>55</ResourceCode>
+			<AquirerResourceCode>55</AquirerResourceCode>
 			<BasePaymentType>1</BasePaymentType>
 			<VolumeDigits>3</VolumeDigits>
 			<InitialCardInfoIndex>255</InitialCardInfoIndex>
@@ -34,10 +40,12 @@
 			<CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
 			<VendorCode>1</VendorCode>
 			<TaxCode>9</TaxCode>
-			<SalePrice>6350</SalePrice>
-			<CalculatedSalePrice>6350</CalculatedSalePrice>
-			<DateTime>2026-08-17 17:59:05</DateTime>
-			<ResourceName>АИ-92-К5</ResourceName>
+			
+			<SalePrice>200</SalePrice>
+			<CalculatedSalePrice>200</CalculatedSalePrice>
+			
+			<DateTime>2026-08-20 11:24:03</DateTime>
+			<ResourceName>92</ResourceName>
 			<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
 		</SaleInfo>
 	</SaleInfoList>
