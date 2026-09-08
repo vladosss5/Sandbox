@@ -1,0 +1,128 @@
+<Root>
+    <Request>
+        <Command>3</Command>
+        <IssuerID>1</IssuerID>
+        <ShopID>1</ShopID>
+        <ResultCode>0</ResultCode>
+        <ResultCodeExt>0</ResultCodeExt>
+        <ShiftID>0</ShiftID>
+        <Flags>0</Flags>
+        <ShopFlags>0</ShopFlags>
+        <ShopState>0</ShopState>
+        <RequestTimeout>0</RequestTimeout>
+    </Request>
+    <Parameters>
+        <DisableCardScopeCheck>0</DisableCardScopeCheck>
+        <DisableDiscountCardExpiredCheck>0</DisableDiscountCardExpiredCheck>
+        <BonusProgram>-1</BonusProgram>
+        <AjustAmount>-1</AjustAmount>
+        <AjustAmountOnline>-1</AjustAmountOnline>
+        <UserTimeout>-1</UserTimeout>
+        <ReadCard>4</ReadCard>
+        <Version>2</Version>
+        <Gift>-1</Gift>
+        <PrintData>-1</PrintData>
+        <PrintCommentData>-1</PrintCommentData>
+        <ExtCommand>0</ExtCommand>
+        <CouponData>-1</CouponData>
+        <LimitationObjectType>0</LimitationObjectType>
+        <LimitationObjectKey>0</LimitationObjectKey>
+        <LimitationType>0</LimitationType>
+        <Value>0</Value>
+        <LoggerType>0</LoggerType>
+        <ShoppingCart>0</ShoppingCart>
+        <ExtendedInfo>0</ExtendedInfo>
+        <WarehouseToWorkState>0</WarehouseToWorkState>
+        <AllowSpecialIssuers />
+        <AllowCardCategories />
+        <CardOperationResult />
+        <Confirmation />
+        <CurrencyType>руб.</CurrencyType>
+        <PINRequestResult />
+        <PIN />
+        <PriceList />
+        <Registration />
+        <CouponList />
+        <CouponBaseList />
+    </Parameters>
+    <CartInfo>
+        <BonusLimitValue>0.000</BonusLimitValue>
+        <MaxBonusIn>0.000</MaxBonusIn>
+        <MaxBonusInCost>0.00</MaxBonusInCost>
+        <MinBonusIn>0.000</MinBonusIn>
+        <MinBonusInCost>0.00</MinBonusInCost>
+        <MaxBonusOut>0.000</MaxBonusOut>
+        <MaxBonusOutCost>0.00</MaxBonusOutCost>
+        <MinBonusOut>0.000</MinBonusOut>
+        <MinBonusOutCost>0.00</MinBonusOutCost>
+        <Flags>0</Flags>
+        <BonusAction>0</BonusAction>
+        <BonusProgram>0</BonusProgram>
+        <TerminalNumber>0</TerminalNumber>
+        <DateTime>2026-09-08 11:48:33</DateTime>
+        <GUID>00000000-0000-0000-0000-000000000000</GUID>
+        <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+        <ClientPhone />
+        <ClientEmail />
+        <TerminalRequestID>0</TerminalRequestID>
+    </CartInfo>
+    <SaleInfoList>
+        <SaleInfo>
+            <ResourcePrice>35.55</ResourcePrice>
+            <RequestSum>35.550</RequestSum>
+            <RequestAmount>1.000000</RequestAmount>
+            <InitialAmount>2.000000</InitialAmount>
+            <InitialCost>0.00</InitialCost>
+            <InitialBonusIn>0.000</InitialBonusIn>
+            <TaxRate>0.000</TaxRate>
+            <Density>0</Density>
+            <Flags>4224</Flags>
+            <Id>0</Id>
+            <RequestId>0</RequestId>
+            <ResourceSet>4</ResourceSet>
+            <ResourceCode>4</ResourceCode>
+            <AquirerResourceCode>0</AquirerResourceCode>
+            <BasePaymentType>0</BasePaymentType>
+            <DerivedPaymentType>0</DerivedPaymentType>
+            <VolumeDigits>3</VolumeDigits>
+            <InitialCardInfoIndex>0</InitialCardInfoIndex>
+            <InitialModifierCardInfoIndex>0</InitialModifierCardInfoIndex>
+            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
+            <CalculatedModifierCardInfoIndex>0</CalculatedModifierCardInfoIndex>
+            <VendorCode>0</VendorCode>
+            <TaxCode>0</TaxCode>
+            <SalePrice>3555</SalePrice>
+            <CalculatedSalePrice>3555</CalculatedSalePrice>
+            <DateTime>2026-09-08 11:48:33</DateTime>
+            <ResourceName />
+            <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+            <CompleteAmount>1.000000</CompleteAmount>
+            <InitialDiscount>0.000000000000000</InitialDiscount>
+            <InitialBonusInCost>0.00</InitialBonusInCost>
+            <InitialBonusOut>0.000</InitialBonusOut>
+            <InitialBonusOutCost>0.00</InitialBonusOutCost>
+            <CalculatedAmount>0.000000</CalculatedAmount>
+            <CalculatedDiscount>0.000000000000000</CalculatedDiscount>
+            <CalculatedBonusIn>0.000</CalculatedBonusIn>
+            <CalculatedBonusInCost>0.00</CalculatedBonusInCost>
+            <CalculatedBonusOut>0.000</CalculatedBonusOut>
+            <CalculatedBonusOutCost>0.00</CalculatedBonusOutCost>
+            <AmountSale>0.000</AmountSale>
+            <ResourceGroupCode>0</ResourceGroupCode>
+            <PaymentTypeCode>0</PaymentTypeCode>
+            <ModifierPaymentTypeCode>0</ModifierPaymentTypeCode>
+            <MessageCode>0</MessageCode>
+            <OperatorCode>0</OperatorCode>
+            <ActionKey>0</ActionKey>
+            <BonusLifeTime>0</BonusLifeTime>
+            <OperatorName />
+            <CouponIndexList />
+            <CalculatedCouponIndexList />
+            <CalculateDiscountList />
+            <CalculateBonusList />
+            <CalculateAccumulateList />
+        </SaleInfo>
+    </SaleInfoList>
+    <CardInfoList />
+    <IN />
+</Root>
