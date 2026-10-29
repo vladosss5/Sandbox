@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountingTest", "Discount
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D66D6FD3-155A-4E9E-A5B6-351F27C31A39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpClientConsole", "SpClientConsole\SpClientConsole.csproj", "{7E67F965-E5F2-4971-B4B8-109B6AC63B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{D66D6FD3-155A-4E9E-A5B6-351F27C31A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D66D6FD3-155A-4E9E-A5B6-351F27C31A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D66D6FD3-155A-4E9E-A5B6-351F27C31A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E67F965-E5F2-4971-B4B8-109B6AC63B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E67F965-E5F2-4971-B4B8-109B6AC63B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E67F965-E5F2-4971-B4B8-109B6AC63B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E67F965-E5F2-4971-B4B8-109B6AC63B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
