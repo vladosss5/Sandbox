@@ -12,25 +12,6 @@
 		<ShopState>0</ShopState>
 		<RequestTimeout>0</RequestTimeout>
 	</Request>
-	<CartInfo>
-		<BonusLimitValue>0</BonusLimitValue>
-		<MaxBonusIn>0</MaxBonusIn>
-		<MaxBonusInCost>0</MaxBonusInCost>
-		<MinBonusIn>0</MinBonusIn>
-		<MinBonusInCost>0</MinBonusInCost>
-		<MaxBonusOut>0</MaxBonusOut>
-		<MaxBonusOutCost>0</MaxBonusOutCost>
-		<MinBonusOut>0</MinBonusOut>
-		<MinBonusOutCost>0</MinBonusOutCost>
-		<Flags>2</Flags>
-		<BonusAction>0</BonusAction>
-		<BonusProgram>0</BonusProgram>
-		<TerminalNumber>0</TerminalNumber>
-		<DateTime>0000-00-00 00:00:00</DateTime>
-		<GUID>00000000-0000-0000-0000-000000000000</GUID>
-		<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
-		<TerminalRequestID>0</TerminalRequestID>
-	</CartInfo>
 	<Parameters>
 		<DisableCardScopeCheck>0</DisableCardScopeCheck>
 		<DisableDiscountCardExpiredCheck>0</DisableDiscountCardExpiredCheck>
@@ -38,7 +19,7 @@
 		<AjustAmount>-1</AjustAmount>
 		<AjustAmountOnline>-1</AjustAmountOnline>
 		<UserTimeout>-1</UserTimeout>
-		<ReadCard>4</ReadCard>
+		<ReadCard>-1</ReadCard>
 		<Version>2</Version>
 		<Gift>-1</Gift>
 		<PrintData>-1</PrintData>
@@ -55,6 +36,26 @@
 		<WarehouseToWorkState>0</WarehouseToWorkState>
 		<CurrencyType>руб.</CurrencyType>
 	</Parameters>
+	<CartInfo>
+		<BonusLimitValue>0</BonusLimitValue>
+		<MaxBonusIn>0</MaxBonusIn>
+		<MaxBonusInCost>0</MaxBonusInCost>
+		<MinBonusIn>0</MinBonusIn>
+		<MinBonusInCost>0</MinBonusInCost>
+		<MaxBonusOut>0</MaxBonusOut>
+		<MaxBonusOutCost>0</MaxBonusOutCost>
+		<MinBonusOut>0</MinBonusOut>
+		<MinBonusOutCost>0</MinBonusOutCost>
+		<Flags>2</Flags>
+		<BonusAction>0</BonusAction>
+		<BonusProgram>0</BonusProgram>
+		<TerminalNumber>0</TerminalNumber>
+		<DateTime>2026-10-05 15:35:26</DateTime>
+		<GUID>00000000-0000-0000-0000-000000000000</GUID>
+		<TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+		<TerminalRequestID>0</TerminalRequestID>
+	</CartInfo>
+	<SaleInfoList />
 	<CardInfoList>
 		<CardInfo>
 			<DiscountVolume>0</DiscountVolume>
@@ -78,7 +79,7 @@
 			<DiscountType>0</DiscountType>
 			<StatusType>0</StatusType>
 			<OrganizationCode>9999999</OrganizationCode>
-			<PersonCode>1</PersonCode>
+			<PersonCode>99999</PersonCode>
 			<TransactionCount>0</TransactionCount>
 			<PartCode>0</PartCode>
 			<ApplicationID>0</ApplicationID>
@@ -92,7 +93,7 @@
 			<CardResourceSet>0</CardResourceSet>
 			<CardResourceCode>0</CardResourceCode>
 			<LastChangeCode>0</LastChangeCode>
-			<CardType>2</CardType>
+			<CardType>0</CardType>
 			<CouponType>0</CouponType>
 			<AcquirerCode>0</AcquirerCode>
 			<ExternalIssuerNet>0</ExternalIssuerNet>

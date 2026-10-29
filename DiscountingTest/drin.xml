@@ -26,7 +26,7 @@
         <BonusAction>0</BonusAction>
         <BonusProgram>0</BonusProgram>
         <TerminalNumber>0</TerminalNumber>
-        <DateTime>0000-00-00 00:00:00</DateTime>
+        <DateTime>2026-09-08 14:19:17</DateTime>
         <GUID>00000000-0000-0000-0000-000000000000</GUID>
         <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
         <ClientPhone />
@@ -35,34 +35,59 @@
     </CartInfo>
     <SaleInfoList>
         <SaleInfo>
-            <ResourcePrice>60</ResourcePrice>
-            <RequestSum>60</RequestSum>
+            <ResourcePrice>35.55</ResourcePrice>
+            <RequestSum>35.55</RequestSum>
             <RequestAmount>1</RequestAmount>
             <InitialAmount>0</InitialAmount>
-            <InitialCost>0</InitialCost>
-            <InitialBonusIn>0</InitialBonusIn>
-            <TaxRate>0</TaxRate>
+            <InitialCost>0.00</InitialCost>
+            <InitialBonusIn>0.000</InitialBonusIn>
+            <TaxRate>0.000</TaxRate>
             <Density>0.545</Density>
             <Flags>0</Flags>
-            <Id>1</Id>
-            <RequestId>2</RequestId>
-            <ResourceSet>3</ResourceSet>
-            <ResourceCode>55</ResourceCode>
-            <AquirerResourceCode>55</AquirerResourceCode>
+            <Id>0</Id>
+            <RequestId>0</RequestId>
+            <ResourceSet>4</ResourceSet>
+            <ResourceCode>4</ResourceCode>
+            <AquirerResourceCode>0</AquirerResourceCode>
             <BasePaymentType>2</BasePaymentType>
             <DerivedPaymentType>1</DerivedPaymentType>
             <VolumeDigits>3</VolumeDigits>
-            <InitialCardInfoIndex>255</InitialCardInfoIndex>
-            <InitialModifierCardInfoIndex>255</InitialModifierCardInfoIndex>
-            <CalculatedCardInfoIndex>255</CalculatedCardInfoIndex>
-            <CalculatedModifierCardInfoIndex>255</CalculatedModifierCardInfoIndex>
+            <InitialCardInfoIndex>0</InitialCardInfoIndex>
+            <InitialModifierCardInfoIndex>0</InitialModifierCardInfoIndex>
+            <CalculatedCardInfoIndex>0</CalculatedCardInfoIndex>
+            <CalculatedModifierCardInfoIndex>0</CalculatedModifierCardInfoIndex>
             <VendorCode>0</VendorCode>
-            <TaxCode>9</TaxCode>
-            <SalePrice>60</SalePrice>
+            <TaxCode>0</TaxCode>
+            <SalePrice>3555.00</SalePrice>
             <CalculatedSalePrice>0</CalculatedSalePrice>
-            <DateTime>2026-08-17 14:54:11</DateTime>
-            <ResourceName>92</ResourceName>
+            <DateTime>2026-09-08 14:19:17</DateTime>
+            <ResourceName />
             <TransactionGUID>00000000-0000-0000-0000-000000000000</TransactionGUID>
+            <CompleteAmount>1.000000</CompleteAmount>
+            <InitialDiscount>0.000000000000000</InitialDiscount>
+            <InitialBonusInCost>0.00</InitialBonusInCost>
+            <InitialBonusOut>0.000</InitialBonusOut>
+            <InitialBonusOutCost>0.00</InitialBonusOutCost>
+            <CalculatedAmount>0.000000</CalculatedAmount>
+            <CalculatedDiscount>0.000000000000000</CalculatedDiscount>
+            <CalculatedBonusIn>0.000</CalculatedBonusIn>
+            <CalculatedBonusInCost>0.00</CalculatedBonusInCost>
+            <CalculatedBonusOut>0.000</CalculatedBonusOut>
+            <CalculatedBonusOutCost>0.00</CalculatedBonusOutCost>
+            <AmountSale>0.000</AmountSale>
+            <ResourceGroupCode>0</ResourceGroupCode>
+            <PaymentTypeCode>0</PaymentTypeCode>
+            <ModifierPaymentTypeCode>0</ModifierPaymentTypeCode>
+            <MessageCode>0</MessageCode>
+            <OperatorCode>0</OperatorCode>
+            <ActionKey>0</ActionKey>
+            <BonusLifeTime>0</BonusLifeTime>
+            <OperatorName />
+            <CouponIndexList />
+            <CalculatedCouponIndexList />
+            <CalculateDiscountList />
+            <CalculateBonusList />
+            <CalculateAccumulateList />
         </SaleInfo>
     </SaleInfoList>
     <Parameters>
@@ -106,9 +131,9 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>45000.000</ApplicationValue>
+            <ApplicationValue>998875.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
-            <ApplicationLimit>45000.000</ApplicationLimit>
+            <ApplicationLimit>1000000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
             <CommonDayApplicationValue>0.000</CommonDayApplicationValue>
             <Flags>16384</Flags>
@@ -124,7 +149,7 @@
             <StatusType>1</StatusType>
             <OrganizationCode>2660</OrganizationCode>
             <PersonCode>3</PersonCode>
-            <TransactionCount>34</TransactionCount>
+            <TransactionCount>119</TransactionCount>
             <PartCode>0</PartCode>
             <ApplicationID>87713</ApplicationID>
             <CommonApplicationID>87713</CommonApplicationID>
@@ -152,16 +177,16 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>0.000</ApplicationValue>
+            <ApplicationValue>996875.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
-            <ApplicationLimit>45000.000</ApplicationLimit>
+            <ApplicationLimit>1000000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
             <CommonDayApplicationValue>0.000</CommonDayApplicationValue>
             <Flags>16384</Flags>
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>1</Index>
+            <Index>0</Index>
             <ResourceSet>4</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>
@@ -198,16 +223,16 @@
             <BonusDiscount>0.000</BonusDiscount>
             <BonusCurrent>0.000</BonusCurrent>
             <RawApplicationValue>0.000</RawApplicationValue>
-            <ApplicationValue>0.000</ApplicationValue>
+            <ApplicationValue>996875.000</ApplicationValue>
             <DayApplicationValue>0.000</DayApplicationValue>
-            <ApplicationLimit>45000.000</ApplicationLimit>
+            <ApplicationLimit>1000000.000</ApplicationLimit>
             <DayApplicationLimit>0.000</DayApplicationLimit>
             <CommonDayApplicationValue>0.000</CommonDayApplicationValue>
             <Flags>16384</Flags>
             <ExFlags>0</ExFlags>
             <RestrictionFlags>1</RestrictionFlags>
             <BonusMode>0</BonusMode>
-            <Index>2</Index>
+            <Index>0</Index>
             <ResourceSet>6</ResourceSet>
             <CardApplicationSchemeType>0</CardApplicationSchemeType>
             <IssuerNet>1</IssuerNet>
@@ -239,4 +264,5 @@
             <ExpirationDate>2032-07-20 16:06:48</ExpirationDate>
         </CardInfo>
     </CardInfoList>
+    <IN />
 </Root>
